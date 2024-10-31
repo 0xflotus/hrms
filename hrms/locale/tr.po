@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: frappe\n"
 "Report-Msgid-Bugs-To: contact@frappe.io\n"
 "POT-Creation-Date: 2024-10-27 09:34+0000\n"
-"PO-Revision-Date: 2024-10-30 16:24\n"
+"PO-Revision-Date: 2024-10-31 16:38\n"
 "Last-Translator: contact@frappe.io\n"
 "Language-Team: Turkish\n"
 "MIME-Version: 1.0\n"
@@ -8218,7 +8218,7 @@ msgstr "Oluştur"
 
 #: hrms/payroll/doctype/payroll_entry/payroll_entry.js:163
 msgid "Make Bank Entry"
-msgstr ""
+msgstr "Banka Ödeme Girişi"
 
 #: hrms/hr/doctype/employee_attendance_tool/employee_attendance_tool.js:189
 #: hrms/hr/doctype/employee_attendance_tool/employee_attendance_tool.js:196
@@ -9500,7 +9500,7 @@ msgstr "Ödeme Hesabı verileri"
 
 #: hrms/payroll/report/bank_remittance/bank_remittance.py:26
 msgid "Payment Date"
-msgstr ""
+msgstr "Ödeme Tarihi"
 
 #. Label of the payment_days (Float) field in DocType 'Salary Slip'
 #. Label of the payment_days_tab (Tab Break) field in DocType 'Salary Slip'
